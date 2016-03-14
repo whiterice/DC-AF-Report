@@ -11,14 +11,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=922
-NormalPos.bottom=523
+NormalPos.right=1562
+NormalPos.bottom=553
 Class=LaTeXView
 Document=Quote.tex
 
 [Frame0_View0,0]
-TopLine=57
-Cursor=2634
+TopLine=47
+Cursor=2655
 
 [Frame1]
 Flags=0
@@ -29,13 +29,13 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=922
-NormalPos.bottom=523
+NormalPos.right=1562
+NormalPos.bottom=553
 Class=LaTeXView
 Document=..\CoverPage.tex
 
 [Frame1_View0,0]
-TopLine=0
+TopLine=14
 Cursor=266
 
 [Frame2]
@@ -47,14 +47,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=922
-NormalPos.bottom=523
+NormalPos.right=1562
+NormalPos.bottom=553
 Class=LaTeXView
-Document=Sub.tex
+Document=Background.tex
 
 [Frame2_View0,0]
-TopLine=81
-Cursor=3452
+TopLine=409
+Cursor=22186
 
 [SessionInfo]
 FrameCount=3
