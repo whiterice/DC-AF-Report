@@ -12,7 +12,7 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1562
-NormalPos.bottom=579
+NormalPos.bottom=553
 Class=LaTeXView
 Document=Arc Flash.tex
 
@@ -30,7 +30,7 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1562
-NormalPos.bottom=579
+NormalPos.bottom=553
 Class=LaTeXView
 Document=CoverPage.tex
 
@@ -48,7 +48,7 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1562
-NormalPos.bottom=579
+NormalPos.bottom=553
 Class=LaTeXView
 Document=Introduction.tex
 
@@ -66,7 +66,7 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1562
-NormalPos.bottom=579
+NormalPos.bottom=553
 Class=LaTeXView
 Document=Results.tex
 
@@ -84,12 +84,12 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1562
-NormalPos.bottom=579
+NormalPos.bottom=553
 Class=LaTeXView
 Document=Objectives.tex
 
 [Frame4_View0,0]
-TopLine=77
+TopLine=78
 Cursor=4156
 
 [Frame5]
@@ -102,7 +102,7 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1562
-NormalPos.bottom=579
+NormalPos.bottom=553
 Class=LaTeXView
 Document=Procedures.tex
 
@@ -120,7 +120,7 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1562
-NormalPos.bottom=579
+NormalPos.bottom=553
 Class=LaTeXView
 Document=Observations.tex
 
@@ -138,7 +138,7 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1562
-NormalPos.bottom=579
+NormalPos.bottom=553
 Class=LaTeXView
 Document=Bibliography.tex
 

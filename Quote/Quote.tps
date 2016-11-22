@@ -17,8 +17,8 @@ Class=LaTeXView
 Document=Quote.tex
 
 [Frame0_View0,0]
-TopLine=47
-Cursor=2655
+TopLine=69
+Cursor=2700
 
 [Frame1]
 Flags=0
@@ -36,7 +36,7 @@ Document=..\CoverPage.tex
 
 [Frame1_View0,0]
 TopLine=14
-Cursor=266
+Cursor=299
 
 [Frame2]
 Flags=0
@@ -53,7 +53,7 @@ Class=LaTeXView
 Document=Background.tex
 
 [Frame2_View0,0]
-TopLine=409
+TopLine=471
 Cursor=22186
 
 [SessionInfo]
