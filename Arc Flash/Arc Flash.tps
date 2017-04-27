@@ -12,13 +12,13 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1562
-NormalPos.bottom=553
+NormalPos.bottom=539
 Class=LaTeXView
 Document=Arc Flash.tex
 
 [Frame0_View0,0]
-TopLine=51
-Cursor=2069
+TopLine=75
+Cursor=2753
 
 [Frame1]
 Flags=0
@@ -30,12 +30,12 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1562
-NormalPos.bottom=553
+NormalPos.bottom=539
 Class=LaTeXView
 Document=CoverPage.tex
 
 [Frame1_View0,0]
-TopLine=13
+TopLine=4
 Cursor=622
 
 [Frame2]
@@ -48,13 +48,13 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1562
-NormalPos.bottom=553
+NormalPos.bottom=539
 Class=LaTeXView
 Document=Introduction.tex
 
 [Frame2_View0,0]
 TopLine=0
-Cursor=947
+Cursor=879
 
 [Frame3]
 Flags=0
@@ -66,13 +66,13 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1562
-NormalPos.bottom=553
+NormalPos.bottom=539
 Class=LaTeXView
 Document=Results.tex
 
 [Frame3_View0,0]
 TopLine=0
-Cursor=590
+Cursor=475
 
 [Frame4]
 Flags=0
@@ -84,13 +84,13 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1562
-NormalPos.bottom=553
+NormalPos.bottom=539
 Class=LaTeXView
 Document=Objectives.tex
 
 [Frame4_View0,0]
-TopLine=78
-Cursor=4156
+TopLine=75
+Cursor=3614
 
 [Frame5]
 Flags=0
@@ -102,13 +102,13 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1562
-NormalPos.bottom=553
+NormalPos.bottom=539
 Class=LaTeXView
 Document=Procedures.tex
 
 [Frame5_View0,0]
-TopLine=21
-Cursor=2058
+TopLine=50
+Cursor=5373
 
 [Frame6]
 Flags=0
@@ -120,13 +120,13 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1562
-NormalPos.bottom=553
+NormalPos.bottom=539
 Class=LaTeXView
 Document=Observations.tex
 
 [Frame6_View0,0]
 TopLine=0
-Cursor=0
+Cursor=438
 
 [Frame7]
 Flags=0
@@ -138,13 +138,13 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1562
-NormalPos.bottom=553
+NormalPos.bottom=539
 Class=LaTeXView
 Document=Bibliography.tex
 
 [Frame7_View0,0]
 TopLine=0
-Cursor=259
+Cursor=370
 
 [SessionInfo]
 FrameCount=8

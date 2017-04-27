@@ -35,7 +35,7 @@ To model the power distribution system effectively, and to obtain as accurate re
 
 \noindent Arc-flash protection is always based on the incident energy level on the person's face and body at the working distance, not the incident energy on the hands or arms. The degree of injury in a burn depends on the percentage of a person's skin that is burned. The head and body are a large percentage of total skin surface area and injury to these areas is much more life threatening than burns on the extremities. \\
 
-\noindent Typical working distances are shown in table below:
+\noindent Typical working distances for AC systems are shown in table below:
 \begin{center}
 \includegraphics[width=5in, keepaspectratio=true]{../Images/WorkingDistance.png} \\
 \end{center}
@@ -47,8 +47,11 @@ For circuit breakers with integral trip units, the manufacturer's time-current c
 \noindent For relay operated circuit breakers, the relay curves show only the relay operating time in the time-delay region. For relays operating in their instantaneous region, 16 milliseconds are typically allowed on 60 Hz systems for operation. The circuit breaker opening time must be added. Opening times for particular circuit breakers can be verified by consulting the manufacturer's literature. \\
  
   
-\noindent\textbf{Available 3 Phase Bolted Fault Current}  \\ 
-Available 3 phase bolted fault current for each specific location as determined by the Short Circuit Analysis. \\
+\noindent\textbf{Available Bolted Fault Current}  \\ 
+Available bolted fault current for each specific location as determined by the Short Circuit Analysis. \\
  
 \noindent\emph{NOTE: Effect of arc current variation on determination of clearing time:    
 For protective devices operating in the steep portion of their time-current curves, a small change in current causes a big change in operating time. Incident energy is linear with time, so arc current variation may have a big effect on incident energy. The solution is to make two arc current and energy calculations; one using the calculated expected arc current and one using a reduced arc current that is 15\% lower.}\\ 
+
+\noindent\emph{NOTE: The CSA-Z462-15 and NFPA-70E standards provide a look-up table method to assess hazard/risk categories in a DC system up to 600V and in Annex D, provide guidelines for calculating DC incident energy.  PowerCore Engineering uses Paladin Designbase's "`Maximum Power Method"' to calculate DC incident energy, which is the same method described in Annex D from CSA-Z462-15 and NFPA-70E.  This method is not recognized by any governing body (IEEE, NFPA, IEC, NEC, etc...). Consequently, the interpretation and use of the calculated DC Arc Flash results in this report are the sole responsibility of the user.}  
+

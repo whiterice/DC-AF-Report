@@ -6,7 +6,7 @@ Version=4
 MainFile=Arc Flash.tex
 UseBibTeX=0
 UseMakeIndex=0
-ActiveProfile=LuaLaTeX ⇨ PDF
+ActiveProfile=LaTeX ⇨ PDF
 ProjectLanguage=en
 ProjectDialect=US
 
